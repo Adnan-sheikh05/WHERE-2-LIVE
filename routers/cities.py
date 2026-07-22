@@ -4,6 +4,31 @@ from database import get_session
 from models.city import City , CityMetric 
 from seed.seed_runner import run_seed
 from services.dependencies import get_current_user
+from sqlmodel import SQLModel
+from typing import Optional
+from models.user import User
+
+
+class CityCreate(SQLModel):
+    name: str
+    state: str
+    population: int
+    year: int
+    cost_of_living: float
+    air_quality_index: float
+    safety_score: float
+    healthcare_score: float
+
+
+class CityUpdate(SQLModel):
+    name: str
+    state: str
+    population: int
+    year: int
+    cost_of_living: float
+    air_quality_index: float
+    safety_score: float
+    healthcare_score: float
 router = APIRouter(prefix="/cities" , tags=["Cities"])
 
 @router.get("/")
