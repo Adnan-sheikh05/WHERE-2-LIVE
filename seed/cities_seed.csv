@@ -1,0 +1,171 @@
+name,state,population,year,cost_index,air_index,safety_score,health_score
+Mumbai,Maharashtra,14255148,2025,6196,108,2.7,6.2
+Delhi,Delhi,2650350,2025,4487,84,2.6,6.1
+Bengaluru,Karnataka,14438738,2025,6936,135,6.7,8.7
+Hyderabad,Telangana,18777916,2025,6375,29,7.7,7.8
+Ahmedabad,Gujarat,10820753,2025,3632,41,7.9,5.5
+Chennai,Tamil Nadu,5397557,2025,6389,43,4,8.6
+Kolkata,West Bengal,10776390,2025,4525,94,4.7,5.1
+Pune,Maharashtra,16258497,2025,6563,209,6,7.2
+Jaipur,Rajasthan,6620079,2025,6625,191,6.7,4
+Surat,Gujarat,2263122,2025,5034,63,4.7,8.7
+Lucknow,Uttar Pradesh,7027181,2025,4676,48,6.2,6.6
+Kanpur,Uttar Pradesh,6501554,2025,3551,106,7.5,6.1
+Nagpur,Maharashtra,10711782,2025,5502,26,8.8,8.2
+Indore,Madhya Pradesh,7032238,2025,4553,223,6.7,6.2
+Thane,Maharashtra,2857007,2025,4085,202,2.8,4
+Bhopal,Madhya Pradesh,6389135,2025,7240,60,8.9,5
+Visakhapatnam,Andhra Pradesh,765045,2025,7156,132,4.8,5.2
+Pimpri-Chinchwad,Maharashtra,18395625,2025,4220,178,8.6,7.7
+Patna,Bihar,4813665,2025,5112,93,7.4,7.1
+Vadodara,Gujarat,9574880,2025,6920,206,7.4,7.6
+Ghaziabad,Uttar Pradesh,4950811,2025,3149,220,6.4,7.7
+Ludhiana,Punjab,13865203,2025,7535,195,5.4,6.6
+Agra,Uttar Pradesh,478565,2025,6470,76,7.6,8
+Nashik,Maharashtra,4776121,2025,5385,81,2.9,6.6
+Faridabad,Hariyana,9600510,2025,4730,106,7.8,6.3
+Meerut,Uttar Pradesh,393710,2025,4352,174,5.5,8.1
+Rajkot,Gujarat,14448075,2025,4151,185,7.8,5.7
+Kalyan-Dombivli,Maharashtra,18617549,2025,4511,90,6.5,4.1
+Vasai-Virar,Maharashtra,597094,2025,6288,151,6,6.5
+Varanasi,Uttar Pradesh,6962949,2025,3349,91,3.3,7.5
+Srinagar,Jammu and Kashmir,15187795,2025,3320,62,5.1,4.8
+Aurangabad,Maharashtra,15345584,2025,4648,106,5.6,8.7
+Dhanbad,Maharashtra,10585664,2025,7999,188,7.4,5.1
+Amritsar,Punjab,14441574,2025,3388,68,8.2,4.6
+Navi Mumbai,Maharashtra,18205238,2025,3021,79,6.5,5
+Allahabad,Uttar Pradesh,1364610,2025,5691,198,8,6.3
+Ranchi,Jharkhand,14347497,2025,4663,86,5.8,4.4
+Howrah,West Bengal,8275625,2025,4401,38,4.7,5.4
+Jabalpur,Madhya Pradesh,14633074,2025,4939,64,2.9,4.7
+Gwalior,Madhya Pradesh,12952771,2025,5474,92,5.6,6.5
+Vijayawada,Andhra Pradesh,1271108,2025,3995,76,2.3,6.8
+Jodhpur,Rajasthan,12718819,2025,5154,231,3.9,6.2
+Madurai,Tamil Nadu,18179702,2025,3876,55,8.1,6.4
+Raipur,Chhattisgarh,14415594,2025,4326,214,8.8,7.2
+Kota,Rajasthan,18480118,2025,7000,207,6.1,4.4
+Guwahati,Assam,1604457,2025,6775,239,8.6,5
+Chandigarh,Chandigarh,18928565,2025,6337,221,5.3,5.9
+Solapur,Maharashtra,6455020,2025,5379,123,4.8,6.2
+Hubballi-Dharwad,Jharkhand,14408524,2025,3304,246,3.1,8.9
+Bareilly,Uttar Pradesh,1112134,2025,7143,82,5.8,8.3
+Moradabad,Uttar Pradesh,13835542,2025,3970,71,6.8,7.8
+Mysuru,Karnataka,19351773,2025,5648,182,4.5,6.7
+Tiruchirappalli,Tamil Nadu,9639589,2025,3104,76,3.3,7.7
+Tiruppur,Tamil Nadu,7386935,2025,4759,90,8.9,5.2
+Gurgaon,Hariyana,6120868,2025,6714,211,2.2,4.8
+Aligarh,Uttar Pradesh,13328383,2025,7770,119,4.2,5
+Jalandhar,Punjab,3011041,2025,3738,163,4.7,6.5
+Bhubaneswar,Odisha,10248172,2025,4836,193,3,7.3
+Salem,Tamil Nadu,8222933,2025,5669,164,6.4,8.5
+Warangal,Telangana,14513083,2025,5114,102,4.3,5.7
+Mira-Bhayandar,Maharashtra,7419064,2025,3965,97,5.2,7.8
+Jalgaon,Maharashtra,16286254,2025,6345,211,4.7,8.1
+Kurnool,Andhra Pradesh,10112230,2025,7104,50,8.1,7.8
+Ujjain,Madhya Pradesh,16861648,2025,7967,182,7.4,6.8
+Sangli,Maharashtra,4330610,2025,4260,246,3.7,8.6
+Belagavi,Karnataka,17786837,2025,7332,147,5.9,4.3
+Mangaluru,Karnataka,11790603,2025,3650,181,2.5,4.9
+Ambattur,Tamil Nadu,16232607,2025,3228,56,8.6,4.4
+Thiruvananthapuram,Kerala,12910030,2025,7843,220,7.1,4.5
+Nellore,Andhra Pradesh,12029766,2025,6636,86,2.9,8.2
+Bikaner,Rajasthan,3689111,2025,3248,130,7.8,4.1
+Agartala,Tripura,7031061,2025,7225,97,6.6,5.1
+Pondicherry,Pondicherry,14384517,2025,4414,66,3.2,5.6
+Anantapur,Andhra Pradesh,19814517,2025,6981,124,5.2,5.8
+Avadi,Tamil Nadu,13346143,2025,5491,179,4.7,4.5
+Gaya,Bihar,8160634,2025,7826,242,4.3,4.4
+Jamshedpur,Jharkhand,19898618,2025,7042,90,3.1,8.5
+Bhilai,Odisha,141611,2025,4222,62,5.2,7.5
+Cuttack,Odisha,17435654,2025,5695,156,4,6.7
+Firozabad,Uttar Pradesh,8850005,2025,7762,86,3,6.4
+Kochi,Kerala,15878960,2025,7878,80,8.2,8.7
+Bhavnagar,Gujrat,16151043,2025,4387,139,7.9,5.6
+Dehradun,Uttarakhand,10118963,2025,6937,36,5.5,8.1
+Durgapur,West Bengal,19351709,2025,5481,209,6.6,4.2
+Asansol,West Bengal,7125312,2025,7548,212,5.2,7.9
+Rourkela,Odisha,10023268,2025,3780,84,5.4,4.3
+Nanded,Maharashtra,11861774,2025,7793,208,5.4,4.1
+Kolhapur,Maharashtra,4358797,2025,3492,224,5.9,6.5
+Ajmer,Rajasthan,1133872,2025,6213,67,7.8,5.2
+Gulbarga,Karnataka,7924162,2025,6030,144,2.8,8.2
+Loni,Maharashtra,14162479,2025,4719,90,7.7,8.4
+Udaipur,Rajasthan,16295089,2025,4887,248,3.2,7.6
+Jhansi,Uttar Pradesh,8775381,2025,4912,237,3.9,8.5
+Tirunelveli,Tamil Nadu,17030780,2025,4232,112,2.1,6.9
+Silchar,Odisha,16831933,2025,3429,212,6.5,4.7
+Sikar,Rajasthan,19626820,2025,4483,116,7.5,8
+Guntur,Andhra Pradesh,19328068,2025,5544,23,5.3,5.3
+Muzaffarpur,Bihar,12981318,2025,4581,233,8.3,8.8
+Panipat,Hariyana,12385642,2025,5746,39,5.9,4
+Satara,Maharashtra,4675105,2025,6197,183,2.1,4.8
+Darbhanga,Bihar,9025956,2025,7055,202,2.6,5.3
+Kollam,Kerala,10219223,2025,7463,196,5.6,5.1
+Hapur,Uttar Pradesh,19513118,2025,6310,97,6,4.1
+Shimoga,Karnataka,2452758,2025,3863,224,7.6,4.7
+Mathura,Uttar Pradesh,4409928,2025,3362,221,5.4,5.6
+Hisar,Hariyana,7483717,2025,5896,156,2.5,6.1
+Gangtok,Sikkim,4079339,2025,7405,118,8.7,7.7
+Imphal,Manipur,7130392,2025,7560,56,4.1,4
+Aizawl,Mizoram,9086997,2025,6722,160,3.8,7
+Itanagar,Arunachal Pradesh,6367059,2025,4755,216,6.9,5.6
+Rewa,Madhya Pradesh,5909591,2025,3028,77,6.3,8.6
+Korba,Chattisgarh,2668364,2025,5037,150,2.5,4.5
+Bilaspur,Chattisgarh,1447083,2025,5976,231,3.6,5.3
+Alwar,Rajasthan,10883488,2025,4583,166,8.3,8.8
+Fatehpur,Madhya Pradesh,8615636,2025,3131,37,5.8,8.9
+Haldwani,Uttarakhand,3251684,2025,3794,21,5.9,8.3
+Chhapra,Bihar,10504078,2025,5498,57,5.2,5.1
+Patiala,Punjab,351234,2025,5098,242,3.7,7.4
+Rohtak,Hariyana,17491692,2025,6303,169,2.2,8.5
+Saharanpur,Uttar Pradesh,19381916,2025,4740,133,3.9,6.1
+Vellore,Tamil Nadu,14344051,2025,7783,178,6.6,7.6
+Palakkad,Kerala,12585629,2025,5375,170,9,4.3
+Kakinada,Andhra Pradesh,9561837,2025,6696,139,2.7,5.3
+Dibrugarh,Assam,13923643,2025,5786,147,6.9,7.8
+Bardhaman,West Bengal,1551786,2025,4767,185,6.2,7.5
+Hoshiarpur,Punjab,10131676,2025,4161,97,2.9,4.5
+Sambalpur,Odisha,15805509,2025,6722,231,7.5,5.5
+Bharatpur,Rajasthan,5368762,2025,4173,36,7.2,4.7
+Pathankot,Punjab,9847297,2025,5404,82,2.6,7.4
+Porbandar,Gujrat,16123748,2025,3375,146,4.2,5.5
+Eluru,Andhra Pradesh,10979673,2025,5630,186,4,7.3
+Morena,Madhya Pradesh,6925348,2025,7610,78,5.3,6.4
+Palwal,Hariyana,14656077,2025,5800,129,7.2,4.7
+Mandya,Karnataka,10220373,2025,4144,102,3.4,5
+Chittoor,Andhra Pradesh,17946183,2025,5194,62,3.3,7.3
+Nagaon,Assam,11281177,2025,6506,200,8.6,6.6
+Kharagpur,West Bengal,15305444,2025,3843,138,3,5.3
+Nizamabad,Telangana,11332579,2025,6330,209,2.4,4.9
+Kishanganj,Bihar,19081082,2025,5675,200,2.5,5.8
+Chandrapur,Maharashtra,15368838,2025,6814,29,8.2,8.9
+Bettiah,Bihar,15618516,2025,7954,119,8.2,7
+Basti,Uttar Pradesh,8366953,2025,5127,120,4.4,8.2
+Siwan,Bihar,739259,2025,5776,206,6.7,8.2
+Purnia,Bihar,9151361,2025,7471,188,2.6,6
+Katihar,Bihar,12039791,2025,4817,20,8.7,5.8
+Hajipur,Bihar,2869468,2025,4987,130,8.5,4.3
+Motihari,Bihar,12459748,2025,7177,145,8.8,6.5
+Begusarai,Bihar,16745314,2025,6715,159,4,7.9
+Samastipur,Bihar,8591330,2025,6212,204,8.9,8.7
+Arrah,Bihar,6339338,2025,5567,187,4.9,6.7
+Barasat,West Bengal,14064788,2025,7093,212,2.4,4.6
+Krishnanagar,West Bengal,17103181,2025,7099,71,5.9,6.8
+Malda,West Bengal,4091856,2025,3188,162,2.8,8
+Midnapore,West Bengal,14540159,2025,6604,150,8.3,5.6
+Bankura,West Bengal,10613800,2025,3104,247,2.7,6.1
+Purulia,West Bengal,3749207,2025,4318,180,8.9,7
+Jhargram,West Bengal,2721716,2025,5999,245,2.1,5
+Medinipur,West Bengal,6753953,2025,5115,61,9,8.5
+Birbhum,West Bengal,4035215,2025,3034,249,2.2,8.2
+Alipurduar,West Bengal,9246961,2025,4771,210,7.6,8.4
+Balurghat,West Bengal,3004812,2025,4844,161,5.4,8.6
+Cooch Behar,West Bengal,8835749,2025,3044,77,6.6,6.8
+Gangarampur,West Bengal,1915405,2025,5344,101,7.9,9
+Bongaigaon,Assam,16262555,2025,7172,235,5.6,8.6
+Tinsukia,Assam,547470,2025,7423,129,2.2,5.5
+Tezpur,Assam,19190205,2025,5392,149,5.9,8.8
+Diphu,Assam,7344591,2025,3316,233,3.4,4.6
+Haflong,Assam,13262360,2025,6936,175,4.2,5.7
+Jorhat,Assam,3269895,2025,3485,223,2.6,5.7
+Sivasagar,Assam,3556689,2025,7878,219,4.9,8.5
